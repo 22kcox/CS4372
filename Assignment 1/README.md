@@ -13,7 +13,7 @@
 1. Put an open in colab button here:
 
 ## 1 Project and Data Selection
-For this assignment, I chose to use the data set titled: " " pulled from https://archive.ics.uci.edu/ml/datasets.php 
+For this assignment, I chose to use the data set titled: "AI4I 2020 Predictive Maintenance Dataset Data Set" pulled from [https://archive.ics.uci.edu/ml/datasets.php ](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset#)
 
 ## 2 Regression and Model Building
 ### 2.1 Pre-processing
