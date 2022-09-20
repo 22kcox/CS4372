@@ -3,11 +3,11 @@
 ### Downloaded Project Folder
 1. Download the project on your computer. git clone https://github.com/sarvasvkulpati/LinearRegression or download the ZIP file
 
-2. Go to the directory with the file: cd LinearRegression
+2. Go to the directory with the file: ``` cd LinearRegression ```
 
-3. Download the required packages: pip install -r requirements.txt
+3. Download the required packages: ``` pip install -r requirements.txt ```
  
-4. Run the project: python3 LinearRegression.py
+4. Run the project: ``` python3 LinearRegression.pynb ```
 
 ### Use Google Colab
 1. Put an open in colab button here:
